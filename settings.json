@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "blukutuk.aternos.me",
+    "port": 42248,
+    "version": "1.26.20 (5.43.1)",
     "try-creative": false
   },
   "position": {
